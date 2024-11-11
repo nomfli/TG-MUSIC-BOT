@@ -1,0 +1,12 @@
+object sql {
+  class TableUser (var userId : Int,  var username : String, var chatId : Int) {}
+  
+  def createDB() : Unit = {
+  
+
+  } 
+      
+
+  
+
+}
